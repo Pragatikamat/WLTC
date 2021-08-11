@@ -1,4 +1,5 @@
 import math
+import pandas as pd
 
 sen=open("idf.txt", "r").read().split('\n')
 N = len(sen)
